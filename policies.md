@@ -29,3 +29,16 @@ Every student is allotted 3 free LATE DAYs throughout the entire quarter, which 
 After these late days are exhausted, late assignments will incur a reduction of 33% in the final score for each day (or part thereof) it is late. For example, if an assignment is up to 24 hours late, it incurs a penalty of 33%. Else if it is up to 48 hours late, it incurs a penalty of 66%. And if it is 72 or more hours late, it will receive no credit.
 
 You must turn in all homework assignments, even if for zero credit, in order to pass the course.
+
+## General course policies
+
+- Gender expression/identity: This course affirms people of all gender expressions and gender identities. If you prefer to be called a different name than what is indicated on the class roster, please let me know. Feel free to correct me on your preferred gender pronoun. If you have any questions or concerns, please do not hesitate to contact me.
+- Code of conduct: You are expected to treat the instructional team and your fellow students with courtesy and respect. This class should be a harassment-free learning experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. Harassment of any form will not be tolerated. If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to one of the instructors. If you are not comfortable approaching the instructional team, you may also contact the Stanford Office of the Ombuds
+- Students with Documented Disabilities: If you have an OAE letter, please present it to [TODO@lists.stanford.edu](mailto:TODO@lists.stanford.edu) at your earliest convenience, so we can ensure that the course materials and staff support comply with your needs.
+- Statement on Recordings: Video cameras located in the back of the room will capture the instructor presentations in this course. For your convenience, you can access these recordings by logging into the course Canvas site. These recordings might be reused in other Stanford courses, viewed by other Stanford students, faculty, or staff, or used for other education and research purposes. Note that while the cameras are positioned with the intention of recording only the instructor, occasionally a part of your image or voice might be incidentally captured. If you have questions, please contact a member of the teaching team.
+
+## Course assistance and personal support
+
+In every quarter we have taught, there have been individual students who have encountered life-altering challenges, so it is not the case that empathy and compassion have only just become relevant. However, the magnitude of the current crises underscores the need to support each other. If you feel overwhelmed for any reason—by work for this class, or a family issue, or just the weight of the present moment for the globe, please do not hesitate to reach out.  Additionally, you can learn more about the broad range of confidential mental health services available on campus here https://vaden.stanford.edu/caps-and-wellness/counseling-and-psychological- services-caps.
+Especially under such conditions, we appreciate your participation in our course, and we will do everything we can to support you.  
+
