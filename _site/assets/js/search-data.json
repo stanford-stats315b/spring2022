@@ -91,7 +91,7 @@
   },"15": {
     "doc": "Homework",
     "title": "General Homework Information",
-    "content": ". | Homework solutions should be submitted on Gradescope by 11:59pm on the due date. | Important Collaboration Policy and Honor Code rules apply to all homework. | You have a limited number of late days. See Late Day Policy for details. | . ",
+    "content": ". | Homework solutions should be submitted on Gradescope by 11:59pm on the due date. | Important Honor code and Collaboration policy rules apply to all homework. | You have a limited number of late days. See Late Day Policy for details. | . ",
     "url": "http://localhost:4000/spring2022/homeworks/#general-homework-information",
     "relUrl": "/homeworks/#general-homework-information"
   },"16": {
@@ -168,10 +168,10 @@
     "relUrl": "/policies/#regrade-policy"
   },"28": {
     "doc": "Policies",
-    "title": "Late assignment policy",
+    "title": "Late day policy",
     "content": "Every student is allotted 3 free LATE DAYs throughout the entire quarter, which may be used on homework assignments, the project proposal, or project milestone. (Late days cannot be used for the final project report or poster due to grading constraints.) . After these late days are exhausted, late assignments will incur a reduction of 33% in the final score for each day (or part thereof) it is late. For example, if an assignment is up to 24 hours late, it incurs a penalty of 33%. Else if it is up to 48 hours late, it incurs a penalty of 66%. And if it is 72 or more hours late, it will receive no credit. You must turn in all homework assignments, even if for zero credit, in order to pass the course. ",
-    "url": "http://localhost:4000/spring2022/policies/#late-assignment-policy",
-    "relUrl": "/policies/#late-assignment-policy"
+    "url": "http://localhost:4000/spring2022/policies/#late-day-policy",
+    "relUrl": "/policies/#late-day-policy"
   },"29": {
     "doc": "Policies",
     "title": "General course policies",

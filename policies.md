@@ -22,7 +22,7 @@ In summary, we expect students to want to learn and not Google for answers or co
 
 If you feel that we have made an error in grading your homework assignment or concept quiz, please wait 24 hours before submitting a regrade request after grading has been published. Subsequently, submit a regrade request via [Gradescope](TODO), including a detailed written explanation, within one week of grades being published. Please note that regrading of the work may cause your grade to go up or down. 
 
-## Late assignment policy
+## Late day policy
 
 Every student is allotted 3 free LATE DAYs throughout the entire quarter, which may be used on homework assignments, the project proposal, or project milestone. (Late days cannot be used for the final project report or poster due to grading constraints.)
 
