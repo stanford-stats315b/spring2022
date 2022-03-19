@@ -89,47 +89,47 @@
     "url": "http://localhost:4000/spring2022/calendar/#unsupervised-learning",
     "relUrl": "/calendar/#unsupervised-learning"
   },"15": {
-    "doc": "Homeworks",
-    "title": "Paper discussions",
-    "content": "The goal of the panel discussion is to analyze the paper from a variety of different vantage points. During each panel discussion, there is a panel of 4-5 students, each with an assigned role who will provide one particular perspective. Everyone in the class should participate by commenting and asking questions. The panel discussion will be moderated by one of the instructors. Each student should sign up for at least 2 panels. | Sign-up form to participate in panels (please use your Stanford email) | Schedule of panelists | . Each panel role covers one aspect of critically assessing an academic paper. Many of the roles are taken from or inspired by Colin Raffel and Alec Jacobsen’s role-playing paper-reading seminars. | Archaeologist: You’re an archeologist who must determine where this paper sits in the context of previous work. Find one older paper cited within the current paper that substantially influenced the current paper and be prepared to discuss what is new. Trace each aspect of the paper (e.g., model, training, data) back to prior work. | Social Impact Assessor: You are an auditor of the societal impact of the paper. Identify how this paper self-assesses its real-world impact (both positive and negative). Have any additional social impacts (especially negative ones) been left out? | Industry Practitioner: You’re a hard-nosed, dirt-under-the-fingernails kind of person who just wants to make good products. How will this paper influence what you do? Look at the experiments carefully - are the experiments compelling? Will you adopt a new method over a tried-and-true baseline? Is it worth the complexity and cost? Does it make you think differently? | Researcher: You are on the test-of-time award committee and are trying to assess the impact of this work after its publication. Find newer papers that cite this work and were substantially influenced by the current paper, or if the current paper is relatively new, think of possible new directions that the current paper could inspire. | Salesperson: You are an author of the paper during the rebuttal period. Convince others why this paper should win a best paper award. | Bug Hunter: You are reviewer #2, who wants to dig into the details of the paper. Your job is to uncover any issues with reproducibility, rigor, correctness, and clarity. | . ",
-    "url": "http://localhost:4000/spring2022/homeworks/#paper-discussions",
-    "relUrl": "/homeworks/#paper-discussions"
+    "doc": "Homework",
+    "title": "General Homework Information",
+    "content": ". | Homework solutions should be submitted on Gradescope by 11:59pm on the due date. | Important Collaboration Policy and Honor Code rules apply to all homework. | You have a limited number of late days. See Late Day Policy for details. | . ",
+    "url": "http://localhost:4000/spring2022/homeworks/#general-homework-information",
+    "relUrl": "/homeworks/#general-homework-information"
   },"16": {
-    "doc": "Homeworks",
-    "title": "Homeworks",
+    "doc": "Homework",
+    "title": "Homework Assignments",
+    "content": " ",
+    "url": "http://localhost:4000/spring2022/homeworks/#homework-assignments",
+    "relUrl": "/homeworks/#homework-assignments"
+  },"17": {
+    "doc": "Homework",
+    "title": "Homework",
     "content": " ",
     "url": "http://localhost:4000/spring2022/homeworks/",
     "relUrl": "/homeworks/"
-  },"17": {
+  },"18": {
     "doc": "Home",
     "title": "STATS 315B - Modern Applied Statistics",
     "content": " ",
     "url": "http://localhost:4000/spring2022/#stats-315b---modern-applied-statistics",
     "relUrl": "/#stats-315b---modern-applied-statistics"
-  },"18": {
+  },"19": {
     "doc": "Home",
     "title": "Week 1 Announcement",
     "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . [Announcements](/spring2022/announcements/){: .btn .btn-outline .fs-3 } --> This course provides a broad and deep treatment of modern statistical machine learning topics. Students entering the course are assumed to have foundational working knowledge in statistics, probability, and basic machine learning concepts, though the course has been designed to provide a broadly accessible treatment of the topics covered. The course starts with a quick review of linear regression and classification, error metrics, and the bias-variance tradeoff. We then delve into decision trees and deep learning techniques for non-linear regression and classification tasks. The subsequent modules move beyond regression and classification tasks and turn to discovering patterns and low-dimensional structure via unsupervised learning. Topics include clustering, dimensionality reduction and autoencoding methods, and matrix factorization. The last module considers time series and sequential data sources via state space models and deep learning methods. ",
     "url": "http://localhost:4000/spring2022/",
     "relUrl": "/"
-  },"19": {
+  },"20": {
     "doc": "Home",
     "title": "Teaching team",
     "content": "Emily Fox . Instructor . Office Hours: TBD . Zijun Gao . Teaching Assistant . Office Hours: TBD . Yujin Jeong . Teaching Assistant . Office Hours: TBD . Samir Khan . Teaching Assistant . Office Hours: TBD . Anav Sood . Teaching Assistant . Office Hours: TBD . ",
     "url": "http://localhost:4000/spring2022/#teaching-team",
     "relUrl": "/#teaching-team"
-  },"20": {
-    "doc": "Home",
-    "title": "Logistics",
-    "content": "Where: Class will by default be in person at 200-002 (History Corner). The first two weeks will be remote (in accordance with University policies); Zoom information is posted on Canvas. When: Class is Mondays and Wednesdays 3:15-4:45pm PST. Links: . | Ed: This is the main way that you and the teaching team should communicate: we will post all important announcements here, and you should ask all course-related questions here. For personal matters that you don’t wish to put in a private Ed post, you can email the teaching staff at cs324-win2122-staff@lists.stanford.edu. | Canvas: The course Canvas page contains links and resources only accessible to students (Zoom link for remote classes). | Gradescope: We use Gradescope for managing coursework (turning in, returning grades). Please use your @stanford.edu email address to sign up for a Gradescope account. | . ",
-    "url": "http://localhost:4000/spring2022/#logistics",
-    "relUrl": "/#logistics"
   },"21": {
     "doc": "Home",
-    "title": "Coursework",
-    "content": "Your grade is based on two activities: . | Paper reviews and discussion (20%) | Projects (2 x 40% = 80%) | . 1. Paper reviews and discussions . Paper reviews. Before each class, you will be assigned 1-2 papers. You should read these papers carefully and write a review of the paper(s). Your review should be a few paragraphs (in the style of a conference review, say for ACL or NeurIPS). Paper reviews are due at 11:00 AM PST on Gradescope on the day of the lecture. Paper discussions. During each class discussion, there is a panel of 4-5 students (you are expected to sign up for at least two panels). The student panelists lead a discussion moderated by the instructors. Everyone else is expected to participate by asking the panel questions. 2. Projects . There are two projects, which allow you to get hands-on experience with large language models. | Project 1 is on evaluating language models. You will be provided with access to models such as GPT-3 and asked to think critically about their capabilities and risks. You will identify a focal property of language models that you’d like to explore more deeply. | Project 2 is on building language models. You will be provided with a compute budget that will allow you to train models such as BERT-base to more systematically evaluate, understand, and improve language models along the focal property you identified in project 1. | . Projects should be done in groups of 1-2 students. Each project should be written up clearly and succinctly; you may lose points if your writing is unclear or unnecessarily complicated. Projects must be typeset using LaTeX, Microsoft Word, Pages for Mac, or an equivalent program, and submitted as a PDF. We strongly encourage you to use LaTeX: there are user-friendly web interfaces like Overleaf. Projects are due at 11:00 PM (not 11:59 PM) PST on Gradescope on the due date. Submitting coursework . Submissions: All coursework are submitted via Gradescope by the deadline. Do not submit your coursework via email. If anything goes wrong, please ask a question on Ed or contact a course assistant. If you need to sign up for a Gradescope account, please use your @stanford.edu email address. You can submit as many times as you’d like until the deadline: we will only grade the last submission. Partial work is better than not submitting any work. If you are working in a group for a homework, please make sure all group members are selected as part of the submission on Gradescope. Late days: A homework is ⌈d⌉ days late if it is turned in d days past the due date (note that this means if you are 1 second late, ⌈d⌉=1 and it is 1 day late). You have 3 late days in total that can be distributed among the homeworks without penalty. After that, the maximum possible grade is decreased by 25% each day (so the best you can do with d=1 is 75%; paper reviews will be graded as fails if they are late and you have no late days). As an example, if you are out of late days and submit one day late, a 90 will be capped at a 75, but a 72 will not be changed. Note that we will only allow a max of d=2 late days per homework. Regrades: If you believe that the course staff made an objective error in grading, then you may submit a regrade request. Regrade requests will only be accepted via Gradescope for one week after the initial grades were released. Note that we may regrade your entire submission, so that depending on your submission you may actually lose more points than you gain. ",
-    "url": "http://localhost:4000/spring2022/#coursework",
-    "relUrl": "/#coursework"
+    "title": "Course Logistics",
+    "content": "  . When: Class is Tuesdays and Thursdays 9:45-11:15am PST. Where: Class will be in person at NVDIA Auditorium. Links: . | Ed: This is the main way that you and the teaching team should communicate: we will post all important announcements here, and you should ask all course-related questions here. For personal matters that you don’t wish to put in a private Ed post, you can email the teaching staff at TODO@lists.stanford.edu. | Canvas: The course Canvas page contains links and resources only accessible to students (Zoom link for remote classes). | Gradescope: We use Gradescope for managing coursework (turning in, returning grades). Please use your @stanford.edu email address to sign up for a Gradescope account. | . Prerequisites: A well-prepared student will have knowledge of: . | Math: . | Linear algebra (matrix/vector operations, orthogonality, etc.) | Multivariate calculus (gradients, partial derivatives) | . | Probability: . | Random variables, expectations, Gaussian distribution, conditional and marginal distributions | . | Statistics / machine learning basics: . | Linear regression and classification and, ideally, overfitting and bias-variance tradeoff | Parameter estimation, including via maximum likelihood estimation | . | Programming proficiency in: . | Python (preferred for this course), or | R, Julia, etc. with an ability to (i) pivot to Python with starter code or (ii) code independently in selected language | . | . From experience, eager students with a strong quantitative background are able to catch up and fully participate. Course Grade: The course grade will be based on the following components. | 5 Homework Assignments (45%): HW0 (5%), HW1 - HW4 (40%) | Concept Quizzes (15%) | Final Project (40%): Project midway (8%), Project report (24%), Project presentation (8%) | . ",
+    "url": "http://localhost:4000/spring2022/#course-logistics",
+    "relUrl": "/#course-logistics"
   },"22": {
     "doc": "Home",
     "title": "Home",
@@ -150,77 +150,101 @@
     "relUrl": "/lectures/"
   },"25": {
     "doc": "Policies",
+    "title": "Submission guidelines",
+    "content": "Homeworks must be submitted by 11:59pm on the due date. You are allowed 3 LATE DAYs throughout the entire quarter, as further detailed below. All homeworks should be submitted via Gradescope. You will receive an invite to Gradescope for STATS315B Spring 2022. If you have not received an invite email after the first few days of class, first log in to Gradescope with your @stanford.edu email and see whether you find the course listed; if not, please post a private message on Ed for us to add you. ",
+    "url": "http://localhost:4000/spring2022/policies/#submission-guidelines",
+    "relUrl": "/policies/#submission-guidelines"
+  },"26": {
+    "doc": "Policies",
+    "title": "Honor code and collaboration policy",
+    "content": "We strongly encourage students to form study groups. Students may discuss and work on homework problems in groups. However, each student must write down the solution independently, and without referring to written notes from the joint session. Each student must understand the solution well enough in order to reconstruct it by themself. Additionally, each student must write their own code in the programming part of the assignment. When working in study groups, you must indicate on each homework with whom you collaborated. For concept quizzes, these are to be completed completely on your own without discussion. It is an honor code violation to copy, refer to, or look at written or code solutions from a previous year, including but not limited to: official solutions from a previous year, solutions posted online, and solutions you or someone else may have written up in a previous year. Furthermore, it is an honor code violation to post your assignment solutions online, such as on a public git repo. We run plagiarism-detection software on your code against past solutions as well as student submissions from current and previous years. Please take the time to familiarize yourself with the Stanford Honor Code. In summary, we expect students to want to learn and not Google for answers or copy those of other students. The purpose of assignments and concept quizzes in this course is to help you think about the material, not just give us the right answers. Please ask us if you are unsure about the use of a particular reference. ",
+    "url": "http://localhost:4000/spring2022/policies/#honor-code-and-collaboration-policy",
+    "relUrl": "/policies/#honor-code-and-collaboration-policy"
+  },"27": {
+    "doc": "Policies",
+    "title": "Regrade policy",
+    "content": "If you feel that we have made an error in grading your homework assignment or concept quiz, please wait 24 hours before submitting a regrade request after grading has been published. Subsequently, submit a regrade request via Gradescope, including a detailed written explanation, within one week of grades being published. Please note that regrading of the work may cause your grade to go up or down. ",
+    "url": "http://localhost:4000/spring2022/policies/#regrade-policy",
+    "relUrl": "/policies/#regrade-policy"
+  },"28": {
+    "doc": "Policies",
+    "title": "Late assignment policy",
+    "content": "Every student is allotted 3 free LATE DAYs throughout the entire quarter, which may be used on homework assignments, the project proposal, or project milestone. (Late days cannot be used for the final project report or poster due to grading constraints.) . After these late days are exhausted, late assignments will incur a reduction of 33% in the final score for each day (or part thereof) it is late. For example, if an assignment is up to 24 hours late, it incurs a penalty of 33%. Else if it is up to 48 hours late, it incurs a penalty of 66%. And if it is 72 or more hours late, it will receive no credit. You must turn in all homework assignments, even if for zero credit, in order to pass the course. ",
+    "url": "http://localhost:4000/spring2022/policies/#late-assignment-policy",
+    "relUrl": "/policies/#late-assignment-policy"
+  },"29": {
+    "doc": "Policies",
     "title": "Policies",
     "content": " ",
     "url": "http://localhost:4000/spring2022/policies/",
     "relUrl": "/policies/"
-  },"26": {
+  },"30": {
     "doc": "Projects",
-    "title": "Paper discussions",
-    "content": "The goal of the panel discussion is to analyze the paper from a variety of different vantage points. During each panel discussion, there is a panel of 4-5 students, each with an assigned role who will provide one particular perspective. Everyone in the class should participate by commenting and asking questions. The panel discussion will be moderated by one of the instructors. Each student should sign up for at least 2 panels. | Sign-up form to participate in panels (please use your Stanford email) | Schedule of panelists | . Each panel role covers one aspect of critically assessing an academic paper. Many of the roles are taken from or inspired by Colin Raffel and Alec Jacobsen’s role-playing paper-reading seminars. | Archaeologist: You’re an archeologist who must determine where this paper sits in the context of previous work. Find one older paper cited within the current paper that substantially influenced the current paper and be prepared to discuss what is new. Trace each aspect of the paper (e.g., model, training, data) back to prior work. | Social Impact Assessor: You are an auditor of the societal impact of the paper. Identify how this paper self-assesses its real-world impact (both positive and negative). Have any additional social impacts (especially negative ones) been left out? | Industry Practitioner: You’re a hard-nosed, dirt-under-the-fingernails kind of person who just wants to make good products. How will this paper influence what you do? Look at the experiments carefully - are the experiments compelling? Will you adopt a new method over a tried-and-true baseline? Is it worth the complexity and cost? Does it make you think differently? | Researcher: You are on the test-of-time award committee and are trying to assess the impact of this work after its publication. Find newer papers that cite this work and were substantially influenced by the current paper, or if the current paper is relatively new, think of possible new directions that the current paper could inspire. | Salesperson: You are an author of the paper during the rebuttal period. Convince others why this paper should win a best paper award. | Bug Hunter: You are reviewer #2, who wants to dig into the details of the paper. Your job is to uncover any issues with reproducibility, rigor, correctness, and clarity. | . ",
-    "url": "http://localhost:4000/spring2022/projects/#paper-discussions",
-    "relUrl": "/projects/#paper-discussions"
-  },"27": {
+    "title": "Final Projects",
+    "content": " ",
+    "url": "http://localhost:4000/spring2022/projects/#final-projects",
+    "relUrl": "/projects/#final-projects"
+  },"31": {
     "doc": "Projects",
     "title": "Projects",
     "content": " ",
     "url": "http://localhost:4000/spring2022/projects/",
     "relUrl": "/projects/"
-  },"28": {
+  },"32": {
     "doc": "Schedule",
     "title": "Weekly Schedule",
     "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
     "url": "http://localhost:4000/spring2022/schedule/#weekly-schedule",
     "relUrl": "/schedule/#weekly-schedule"
-  },"29": {
+  },"33": {
     "doc": "Schedule",
     "title": "Monday",
     "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
     "url": "http://localhost:4000/spring2022/schedule/",
     "relUrl": "/schedule/"
-  },"30": {
+  },"34": {
     "doc": "Schedule",
     "title": "Tuesday",
     "content": "| ",
     "url": "http://localhost:4000/spring2022/schedule/",
     "relUrl": "/schedule/"
-  },"31": {
+  },"35": {
     "doc": "Schedule",
     "title": "Wednesday",
     "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
     "url": "http://localhost:4000/spring2022/schedule/",
     "relUrl": "/schedule/"
-  },"32": {
+  },"36": {
     "doc": "Schedule",
     "title": "Thursday",
     "content": "| ",
     "url": "http://localhost:4000/spring2022/schedule/",
     "relUrl": "/schedule/"
-  },"33": {
+  },"37": {
     "doc": "Schedule",
     "title": "Friday",
     "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | . ",
     "url": "http://localhost:4000/spring2022/schedule/",
     "relUrl": "/schedule/"
-  },"34": {
+  },"38": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": " ",
     "url": "http://localhost:4000/spring2022/schedule/",
     "relUrl": "/schedule/"
-  },"35": {
+  },"39": {
     "doc": "Staff",
     "title": "Staff",
     "content": "Staff information is stored in the _staffers directory and rendered according to the layout file, _layouts/staffer.html. ",
     "url": "http://localhost:4000/spring2022/staff/",
     "relUrl": "/staff/"
-  },"36": {
+  },"40": {
     "doc": "Staff",
     "title": "Instructors",
     "content": "Emily Fox . Instructor . Office Hours: TBD . ",
     "url": "http://localhost:4000/spring2022/staff/#instructors",
     "relUrl": "/staff/#instructors"
-  },"37": {
+  },"41": {
     "doc": "Staff",
     "title": "Teaching Assistants",
     "content": "Anav Sood . Teaching Assistant . Office Hours: TBD . Samir Khan . Teaching Assistant . Office Hours: TBD . Yujin Jeong . Teaching Assistant . Office Hours: TBD . Zijun Gao . Teaching Assistant . Office Hours: TBD . ",

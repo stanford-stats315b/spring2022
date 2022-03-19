@@ -5,7 +5,7 @@ description: Listing of course modules and topics.
 nav_order: 2
 ---
 
-# Calendar
+## Calendar
 
 {% for module in site.modules %}
 {{ module }}
