@@ -1,0 +1,230 @@
+{"0": {
+    "doc": "Just the Class",
+    "title": "Just the Class",
+    "content": "Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for: . | announcements, | a course calendar, | a staff page, | and a weekly schedule. | . Just the Class is a template that extends the popular Just the Docs theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as: . | automatic navigation structure, | instant, full-text search and page indexing, | and a set of UI components and authoring utilities. | . ",
+    "url": "http://localhost:4000/spring2022/index.html",
+    "relUrl": "/index.html"
+  },"1": {
+    "doc": "Just the Class",
+    "title": "Getting Started",
+    "content": "Getting started with Just the Class is simple. | Create a new repository based on Just the Class. | Update _config.yml and README.md with your course information. Be sure to update the url and baseurl. | Configure a publishing source for GitHub Pages. Your course website is now live! | Edit and create .md Markdown files to add more content pages. | . Just the Class has been used by instructors at Stanford University (CS 161), UC Berkeley (Data 100), UC Santa Barbara (DS1), Northeastern University (CS4530/5500), and Carnegie Mellon University (17-450/17-950). Share your course website and find more examples in the show and tell discussion! . Local development environment . Just the Class requires no special Jekyll plugins and can run on GitHub Pages’ standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on Testing your GitHub Pages site locally with Jekyll. ",
+    "url": "http://localhost:4000/spring2022/index.html#getting-started",
+    "relUrl": "/index.html#getting-started"
+  },"2": {
+    "doc": "About",
+    "title": "About",
+    "content": " ",
+    "url": "http://localhost:4000/spring2022/about/",
+    "relUrl": "/about/"
+  },"3": {
+    "doc": "About",
+    "title": "Table of contents",
+    "content": ". | About | Lecture | Resources | Assignments | . ",
+    "url": "http://localhost:4000/spring2022/about/#table-of-contents",
+    "relUrl": "/about/#table-of-contents"
+  },"4": {
+    "doc": "About",
+    "title": "About",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat. ",
+    "url": "http://localhost:4000/spring2022/about/",
+    "relUrl": "/about/"
+  },"5": {
+    "doc": "About",
+    "title": "Lecture",
+    "content": "Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla. ",
+    "url": "http://localhost:4000/spring2022/about/#lecture",
+    "relUrl": "/about/#lecture"
+  },"6": {
+    "doc": "About",
+    "title": "Resources",
+    "content": "Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi. ",
+    "url": "http://localhost:4000/spring2022/about/#resources",
+    "relUrl": "/about/#resources"
+  },"7": {
+    "doc": "About",
+    "title": "Assignments",
+    "content": "Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus. ",
+    "url": "http://localhost:4000/spring2022/about/#assignments",
+    "relUrl": "/about/#assignments"
+  },"8": {
+    "doc": "Announcements",
+    "title": "Announcements",
+    "content": "Announcements are stored in the _announcements directory and rendered according to the layout file, _layouts/announcement.html. ",
+    "url": "http://localhost:4000/spring2022/announcements/",
+    "relUrl": "/announcements/"
+  },"9": {
+    "doc": "Announcements",
+    "title": "Week 1 Announcement",
+    "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . ",
+    "url": "http://localhost:4000/spring2022/announcements/",
+    "relUrl": "/announcements/"
+  },"10": {
+    "doc": "Announcements",
+    "title": "Week 0 Announcement",
+    "content": "Apr 1 &middot; 0 min read Hello world! . ",
+    "url": "http://localhost:4000/spring2022/announcements/",
+    "relUrl": "/announcements/"
+  },"11": {
+    "doc": "Calendar",
+    "title": "Calendar",
+    "content": " ",
+    "url": "http://localhost:4000/spring2022/calendar/",
+    "relUrl": "/calendar/"
+  },"12": {
+    "doc": "Calendar",
+    "title": "Course Intro",
+    "content": "Tue Mar 29 Lecture 1 Review I HW 0 out . | Point estimation, MLE, Linear regression and classification | . Reading: . | PML1 1.1-1.4, 11.1-11.2, 10.1-10.2 | (Optional) ESL 1, 2.3.1, 3.1-3.2, 4.1, 4.4.1-4.4.2 | . Thu Mar 31 Lecture 2 Reiview II   . | Assessing performance, Overfitting, Bias-variance tradeoff | . Reading: . | ESL 7.1-7.4 | (Optional) PML1 4.7.6 | . ",
+    "url": "http://localhost:4000/spring2022/calendar/#course-intro",
+    "relUrl": "/calendar/#course-intro"
+  },"13": {
+    "doc": "Calendar",
+    "title": "Non-linear regression and classification",
+    "content": "Tue Apr 5 Lecture 3 Decision trees I HW 0 due HW 1 out . | Decision trees | . Reading: . | PML1 18.1 | (Optional) ESL 9.2.1-9.2.3 | . Thu Apr 7 Lecture 4 Decision trees II   . | Decision trees, Boosting, Random forests, Adaboost | . Reading: . | PML1 18.4-18.5 | (Optional) ESL 9.2.4, 10.1-10.10, 15.1-15.4, | (Optional) Explaining Adaboost | . Tue Apr 12 Lecture 5 Decision trees III   . | Gradient boosting, Precision and recall | . Reading: . | PML1 5.1.4 | . Thu Apr 14 Lecture 6 Deep learning I   . | Deep learning intro, single and multilayer networks | . Reading: . | PML2 16.1-16.3 | . Tue Apr 19 Lecture 7 Deep learning II HW 1 due HW 2 out . | Back propagation | . Reading: . | PML2 16.4 | . Thu Apr 21 Lecture 8 Deep learning III   . | Convnets, Transfer learning | . Reading: . | see L6 reading | . ",
+    "url": "http://localhost:4000/spring2022/calendar/#non-linear-regression-and-classification",
+    "relUrl": "/calendar/#non-linear-regression-and-classification"
+  },"14": {
+    "doc": "Calendar",
+    "title": "Unsupervised Learning",
+    "content": "Tue Apr 26 Lecture 9 Clustering I Project Proposal due . | Clustering and unsupervised learning, K-means clustering | . Reading: . | PML1 21.1, 21.3 | (Optional) ESL 14.3.6 | . Thu Apr 28 Lecture 10 Clustering II   . | Mixture of Gaussians, EM algorithm | . Reading: . | PML1 21.4, PML2 29.2, PML1 8.7 | PML2 6.6.3-6.6.4 | . Tue May 3 Lecture 11 Clustering III HW 2 due HW 3 out . | EM algorithm, Connection to K-means, Hierarchical clustering | . Reading: . | ESL 14.3.7, 14.3.12 | PML1 21.2 | . Thu May 5 Lecture 12 Dimensionality reduction   . | PCA | . Reading: . | PML1 20.1 | (Optional) ESL 14.5.1 | . Tue May 10 Lecture 13 Latent embeddings I   . | Factor analysis, EM algorithm for Factor analysis | . Reading: . | PML1 20.2 | PML2 29.3, 29.6 | (Optional) ESL 14.7.1-14.7.2 | . Thu May 12 Lecture 14 Latent embeddings II Project Midway due . | Autoencoders, Variational autoencoders | . Reading: . | PML1 20.3 | PML2 21.1-21.3, 22.1-22.2 | . ",
+    "url": "http://localhost:4000/spring2022/calendar/#unsupervised-learning",
+    "relUrl": "/calendar/#unsupervised-learning"
+  },"15": {
+    "doc": "Homeworks",
+    "title": "Paper discussions",
+    "content": "The goal of the panel discussion is to analyze the paper from a variety of different vantage points. During each panel discussion, there is a panel of 4-5 students, each with an assigned role who will provide one particular perspective. Everyone in the class should participate by commenting and asking questions. The panel discussion will be moderated by one of the instructors. Each student should sign up for at least 2 panels. | Sign-up form to participate in panels (please use your Stanford email) | Schedule of panelists | . Each panel role covers one aspect of critically assessing an academic paper. Many of the roles are taken from or inspired by Colin Raffel and Alec Jacobsen’s role-playing paper-reading seminars. | Archaeologist: You’re an archeologist who must determine where this paper sits in the context of previous work. Find one older paper cited within the current paper that substantially influenced the current paper and be prepared to discuss what is new. Trace each aspect of the paper (e.g., model, training, data) back to prior work. | Social Impact Assessor: You are an auditor of the societal impact of the paper. Identify how this paper self-assesses its real-world impact (both positive and negative). Have any additional social impacts (especially negative ones) been left out? | Industry Practitioner: You’re a hard-nosed, dirt-under-the-fingernails kind of person who just wants to make good products. How will this paper influence what you do? Look at the experiments carefully - are the experiments compelling? Will you adopt a new method over a tried-and-true baseline? Is it worth the complexity and cost? Does it make you think differently? | Researcher: You are on the test-of-time award committee and are trying to assess the impact of this work after its publication. Find newer papers that cite this work and were substantially influenced by the current paper, or if the current paper is relatively new, think of possible new directions that the current paper could inspire. | Salesperson: You are an author of the paper during the rebuttal period. Convince others why this paper should win a best paper award. | Bug Hunter: You are reviewer #2, who wants to dig into the details of the paper. Your job is to uncover any issues with reproducibility, rigor, correctness, and clarity. | . ",
+    "url": "http://localhost:4000/spring2022/homeworks/#paper-discussions",
+    "relUrl": "/homeworks/#paper-discussions"
+  },"16": {
+    "doc": "Homeworks",
+    "title": "Homeworks",
+    "content": " ",
+    "url": "http://localhost:4000/spring2022/homeworks/",
+    "relUrl": "/homeworks/"
+  },"17": {
+    "doc": "Home",
+    "title": "STATS 315B - Modern Applied Statistics",
+    "content": " ",
+    "url": "http://localhost:4000/spring2022/#stats-315b---modern-applied-statistics",
+    "relUrl": "/#stats-315b---modern-applied-statistics"
+  },"18": {
+    "doc": "Home",
+    "title": "Week 1 Announcement",
+    "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . [Announcements](/spring2022/announcements/){: .btn .btn-outline .fs-3 } --> This course provides a broad and deep treatment of modern statistical machine learning topics. Students entering the course are assumed to have foundational working knowledge in statistics, probability, and basic machine learning concepts, though the course has been designed to provide a broadly accessible treatment of the topics covered. The course starts with a quick review of linear regression and classification, error metrics, and the bias-variance tradeoff. We then delve into decision trees and deep learning techniques for non-linear regression and classification tasks. The subsequent modules move beyond regression and classification tasks and turn to discovering patterns and low-dimensional structure via unsupervised learning. Topics include clustering, dimensionality reduction and autoencoding methods, and matrix factorization. The last module considers time series and sequential data sources via state space models and deep learning methods. ",
+    "url": "http://localhost:4000/spring2022/",
+    "relUrl": "/"
+  },"19": {
+    "doc": "Home",
+    "title": "Teaching team",
+    "content": "Emily Fox . Instructor . Office Hours: TBD . Zijun Gao . Teaching Assistant . Office Hours: TBD . Yujin Jeong . Teaching Assistant . Office Hours: TBD . Samir Khan . Teaching Assistant . Office Hours: TBD . Anav Sood . Teaching Assistant . Office Hours: TBD . ",
+    "url": "http://localhost:4000/spring2022/#teaching-team",
+    "relUrl": "/#teaching-team"
+  },"20": {
+    "doc": "Home",
+    "title": "Logistics",
+    "content": "Where: Class will by default be in person at 200-002 (History Corner). The first two weeks will be remote (in accordance with University policies); Zoom information is posted on Canvas. When: Class is Mondays and Wednesdays 3:15-4:45pm PST. Links: . | Ed: This is the main way that you and the teaching team should communicate: we will post all important announcements here, and you should ask all course-related questions here. For personal matters that you don’t wish to put in a private Ed post, you can email the teaching staff at cs324-win2122-staff@lists.stanford.edu. | Canvas: The course Canvas page contains links and resources only accessible to students (Zoom link for remote classes). | Gradescope: We use Gradescope for managing coursework (turning in, returning grades). Please use your @stanford.edu email address to sign up for a Gradescope account. | . ",
+    "url": "http://localhost:4000/spring2022/#logistics",
+    "relUrl": "/#logistics"
+  },"21": {
+    "doc": "Home",
+    "title": "Coursework",
+    "content": "Your grade is based on two activities: . | Paper reviews and discussion (20%) | Projects (2 x 40% = 80%) | . 1. Paper reviews and discussions . Paper reviews. Before each class, you will be assigned 1-2 papers. You should read these papers carefully and write a review of the paper(s). Your review should be a few paragraphs (in the style of a conference review, say for ACL or NeurIPS). Paper reviews are due at 11:00 AM PST on Gradescope on the day of the lecture. Paper discussions. During each class discussion, there is a panel of 4-5 students (you are expected to sign up for at least two panels). The student panelists lead a discussion moderated by the instructors. Everyone else is expected to participate by asking the panel questions. 2. Projects . There are two projects, which allow you to get hands-on experience with large language models. | Project 1 is on evaluating language models. You will be provided with access to models such as GPT-3 and asked to think critically about their capabilities and risks. You will identify a focal property of language models that you’d like to explore more deeply. | Project 2 is on building language models. You will be provided with a compute budget that will allow you to train models such as BERT-base to more systematically evaluate, understand, and improve language models along the focal property you identified in project 1. | . Projects should be done in groups of 1-2 students. Each project should be written up clearly and succinctly; you may lose points if your writing is unclear or unnecessarily complicated. Projects must be typeset using LaTeX, Microsoft Word, Pages for Mac, or an equivalent program, and submitted as a PDF. We strongly encourage you to use LaTeX: there are user-friendly web interfaces like Overleaf. Projects are due at 11:00 PM (not 11:59 PM) PST on Gradescope on the due date. Submitting coursework . Submissions: All coursework are submitted via Gradescope by the deadline. Do not submit your coursework via email. If anything goes wrong, please ask a question on Ed or contact a course assistant. If you need to sign up for a Gradescope account, please use your @stanford.edu email address. You can submit as many times as you’d like until the deadline: we will only grade the last submission. Partial work is better than not submitting any work. If you are working in a group for a homework, please make sure all group members are selected as part of the submission on Gradescope. Late days: A homework is ⌈d⌉ days late if it is turned in d days past the due date (note that this means if you are 1 second late, ⌈d⌉=1 and it is 1 day late). You have 3 late days in total that can be distributed among the homeworks without penalty. After that, the maximum possible grade is decreased by 25% each day (so the best you can do with d=1 is 75%; paper reviews will be graded as fails if they are late and you have no late days). As an example, if you are out of late days and submit one day late, a 90 will be capped at a 75, but a 72 will not be changed. Note that we will only allow a max of d=2 late days per homework. Regrades: If you believe that the course staff made an objective error in grading, then you may submit a regrade request. Regrade requests will only be accepted via Gradescope for one week after the initial grades were released. Note that we may regrade your entire submission, so that depending on your submission you may actually lose more points than you gain. ",
+    "url": "http://localhost:4000/spring2022/#coursework",
+    "relUrl": "/#coursework"
+  },"22": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "http://localhost:4000/spring2022/",
+    "relUrl": "/"
+  },"23": {
+    "doc": "Lectures",
+    "title": "Lecture notes",
+    "content": " ",
+    "url": "http://localhost:4000/spring2022/lectures/#lecture-notes",
+    "relUrl": "/lectures/#lecture-notes"
+  },"24": {
+    "doc": "Lectures",
+    "title": "Lectures",
+    "content": " ",
+    "url": "http://localhost:4000/spring2022/lectures/",
+    "relUrl": "/lectures/"
+  },"25": {
+    "doc": "Policies",
+    "title": "Policies",
+    "content": " ",
+    "url": "http://localhost:4000/spring2022/policies/",
+    "relUrl": "/policies/"
+  },"26": {
+    "doc": "Projects",
+    "title": "Paper discussions",
+    "content": "The goal of the panel discussion is to analyze the paper from a variety of different vantage points. During each panel discussion, there is a panel of 4-5 students, each with an assigned role who will provide one particular perspective. Everyone in the class should participate by commenting and asking questions. The panel discussion will be moderated by one of the instructors. Each student should sign up for at least 2 panels. | Sign-up form to participate in panels (please use your Stanford email) | Schedule of panelists | . Each panel role covers one aspect of critically assessing an academic paper. Many of the roles are taken from or inspired by Colin Raffel and Alec Jacobsen’s role-playing paper-reading seminars. | Archaeologist: You’re an archeologist who must determine where this paper sits in the context of previous work. Find one older paper cited within the current paper that substantially influenced the current paper and be prepared to discuss what is new. Trace each aspect of the paper (e.g., model, training, data) back to prior work. | Social Impact Assessor: You are an auditor of the societal impact of the paper. Identify how this paper self-assesses its real-world impact (both positive and negative). Have any additional social impacts (especially negative ones) been left out? | Industry Practitioner: You’re a hard-nosed, dirt-under-the-fingernails kind of person who just wants to make good products. How will this paper influence what you do? Look at the experiments carefully - are the experiments compelling? Will you adopt a new method over a tried-and-true baseline? Is it worth the complexity and cost? Does it make you think differently? | Researcher: You are on the test-of-time award committee and are trying to assess the impact of this work after its publication. Find newer papers that cite this work and were substantially influenced by the current paper, or if the current paper is relatively new, think of possible new directions that the current paper could inspire. | Salesperson: You are an author of the paper during the rebuttal period. Convince others why this paper should win a best paper award. | Bug Hunter: You are reviewer #2, who wants to dig into the details of the paper. Your job is to uncover any issues with reproducibility, rigor, correctness, and clarity. | . ",
+    "url": "http://localhost:4000/spring2022/projects/#paper-discussions",
+    "relUrl": "/projects/#paper-discussions"
+  },"27": {
+    "doc": "Projects",
+    "title": "Projects",
+    "content": " ",
+    "url": "http://localhost:4000/spring2022/projects/",
+    "relUrl": "/projects/"
+  },"28": {
+    "doc": "Schedule",
+    "title": "Weekly Schedule",
+    "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
+    "url": "http://localhost:4000/spring2022/schedule/#weekly-schedule",
+    "relUrl": "/schedule/#weekly-schedule"
+  },"29": {
+    "doc": "Schedule",
+    "title": "Monday",
+    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
+    "url": "http://localhost:4000/spring2022/schedule/",
+    "relUrl": "/schedule/"
+  },"30": {
+    "doc": "Schedule",
+    "title": "Tuesday",
+    "content": "| ",
+    "url": "http://localhost:4000/spring2022/schedule/",
+    "relUrl": "/schedule/"
+  },"31": {
+    "doc": "Schedule",
+    "title": "Wednesday",
+    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
+    "url": "http://localhost:4000/spring2022/schedule/",
+    "relUrl": "/schedule/"
+  },"32": {
+    "doc": "Schedule",
+    "title": "Thursday",
+    "content": "| ",
+    "url": "http://localhost:4000/spring2022/schedule/",
+    "relUrl": "/schedule/"
+  },"33": {
+    "doc": "Schedule",
+    "title": "Friday",
+    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | . ",
+    "url": "http://localhost:4000/spring2022/schedule/",
+    "relUrl": "/schedule/"
+  },"34": {
+    "doc": "Schedule",
+    "title": "Schedule",
+    "content": " ",
+    "url": "http://localhost:4000/spring2022/schedule/",
+    "relUrl": "/schedule/"
+  },"35": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": "Staff information is stored in the _staffers directory and rendered according to the layout file, _layouts/staffer.html. ",
+    "url": "http://localhost:4000/spring2022/staff/",
+    "relUrl": "/staff/"
+  },"36": {
+    "doc": "Staff",
+    "title": "Instructors",
+    "content": "Emily Fox . Instructor . Office Hours: TBD . ",
+    "url": "http://localhost:4000/spring2022/staff/#instructors",
+    "relUrl": "/staff/#instructors"
+  },"37": {
+    "doc": "Staff",
+    "title": "Teaching Assistants",
+    "content": "Anav Sood . Teaching Assistant . Office Hours: TBD . Samir Khan . Teaching Assistant . Office Hours: TBD . Yujin Jeong . Teaching Assistant . Office Hours: TBD . Zijun Gao . Teaching Assistant . Office Hours: TBD . ",
+    "url": "http://localhost:4000/spring2022/staff/#teaching-assistants",
+    "relUrl": "/staff/#teaching-assistants"
+  }
+}
