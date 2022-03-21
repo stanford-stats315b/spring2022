@@ -40,9 +40,8 @@ The course starts with a quick review of linear regression and classification, e
   all course-related questions here.
   For personal matters that you don't wish to put in a private Ed post, you can
   email the teaching staff at [TODO@lists.stanford.edu](mailto:TODO@lists.stanford.edu).
-- [Canvas](#TODO): The course Canvas page
-  contains links and resources only accessible to students ([Zoom link](TODO) for
-  remote classes).
+- [Canvas](https://canvas.stanford.edu/courses/152448): The course Canvas page
+  contains links and resources only accessible to students.
 - [Gradescope](TODO): We use Gradescope
   for managing coursework (turning in, returning grades).  Please use your
   @stanford.edu email address to sign up for a Gradescope account.
