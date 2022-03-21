@@ -66,4 +66,16 @@ From experience, eager students with a strong quantitative background are able t
 
 - 5 Homework Assignments (45%): HW0 (5%), HW1 - HW4 (40%)
 - Concept Quizzes (15%)
-- Final Project (40%): Project midway (8%), Project report (24%), Project presentation (8%)
+- Final Project (40%): Project midway (10%), Project presentation (10%), Project report (20%)
+
+**Textbooks**:
+- [Probabilistic Machine Learning](https://probml.github.io/pml-book/): An Introduction; Kevin Murphy
+- [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/); Kevin Murphy
+- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, 2nd Edition (12th printing)](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf);
+ Trevor Hastie, Robert Tibshirani, Jerome Friedman
+
+**Other references**:
+- [A Course in Machine Learning](http://ciml.info); Hal Duame III
+- Pattern Recognition and Machine Learning; Chris Bishop
+- Machine Learning; Tom Mitchell
+- Information Theory, Inference, and Learning Algorithms; David MacKay

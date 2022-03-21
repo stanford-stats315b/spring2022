@@ -3,11 +3,6 @@ layout: default
 title: Policies
 nav_order: 6
 ---
-
-## Submission guidelines
-
-Homeworks must be submitted by 11:59pm on the due date. You are allowed 3 LATE DAYs throughout the entire quarter, as further detailed below.  All homeworks should be submitted via [Gradescope](TODO). You will receive an invite to Gradescope for STATS315B Spring 2022. If you have not received an invite email after the first few days of class, first log in to Gradescope with your @stanford.edu email and see whether you find the course listed; if not, please post a private message on Ed for us to add you. 
-
 ## Honor code and collaboration policy
 
 We strongly encourage students to form study groups. Students may discuss and work on homework problems in groups. However, each student must write down the solution independently, and without referring to written notes from the joint session. Each student must understand the solution well enough in order to reconstruct it by themself.  Additionally, each student must write their own code in the programming part of the assignment.  When working in study groups, you must indicate on each homework with whom you collaborated. 
