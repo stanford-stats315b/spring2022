@@ -34,12 +34,12 @@ The course starts with a quick review of linear regression and classification, e
 [NVDIA Auditorium](https://campus-map.stanford.edu/?id=NVIDIAAUD).
 
 **Links**:
-- [Ed](TODO):
+- [Ed](https://edstem.org/us/dashboard):
   This is the main way that you and the teaching team should communicate:
   we will post all important announcements here, and you should ask
   all course-related questions here.
   For personal matters that you don't wish to put in a private Ed post, you can
-  email the teaching staff at [TODO@lists.stanford.edu](mailto:TODO@lists.stanford.edu).
+  email the teaching staff at [stats315b-spr2122-staff\@lists.stanford.edu](mailto:stats315b-spr2122-staff\@lists.stanford.edu).
 - [Canvas](https://canvas.stanford.edu/courses/152448): The course Canvas page
   contains links and resources only accessible to students.
 - [Gradescope](https://www.gradescope.com/courses/379982): We use Gradescope
