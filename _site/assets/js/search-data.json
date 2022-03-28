@@ -97,7 +97,7 @@
   },"16": {
     "doc": "Homework",
     "title": "General Homework Information",
-    "content": ". | Homework assignments will be released on Canvas. | Submission Guidelines: . | Homeworks must be submitted by 11:59pm on the due date. You are allowed 3 LATE DAYs throughout the entire quarter, as further detailed below. All homeworks should be submitted via Gradescope. | You will receive an invite to Gradescope for STATS315B Spring 2022. If you have not received an invite email after the first few days of class, first log in to Gradescope with your @stanford.edu email and see whether you find the course listed; if not, please post a private message on Ed for us to add you. | . | Important Honor code and Collaboration policy rules apply to all homework. | You have a limited number of late days. See Late Day Policy for details. | . ",
+    "content": ". | Homework assignments will be released on Canvas. | Submission Guidelines: . | Homeworks must be submitted by 11:59pm on the due date. | You are allowed 3 LATE DAYs throughout the entire quarter, as detailed in Late Day Policy section. | All homeworks should be submitted via Gradescope. | You will receive an invite to Gradescope for STATS315B Spring 2022. If you have not received an invite email after the first few days of class, first log in to Gradescope with your @stanford.edu email and see whether you find the course listed; if not, please post a private message on Ed for us to add you. | . | Important Honor code and Collaboration policy rules apply to all homework. | . ",
     "url": "http://localhost:4000/spring2022/homeworks/#general-homework-information",
     "relUrl": "/homeworks/#general-homework-information"
   },"17": {
@@ -127,13 +127,13 @@
   },"21": {
     "doc": "Home",
     "title": "Teaching team",
-    "content": "Emily Fox . Instructor . Office Hours: TBD . Zijun Gao . Teaching Assistant . Office Hours: TBD . Yujin Jeong . Teaching Assistant . Office Hours: TBD . Samir Khan . Teaching Assistant . Office Hours: TBD . Anav Sood . Teaching Assistant . Office Hours: TBD . ",
+    "content": "Emily Fox . Instructor . Office Hours: Wed 1:30-2:30pm @TBD . Zijun Gao . Teaching Assistant . Office Hours: Mon 9:30-11:30am @TBD . Yujin Jeong . Teaching Assistant . Office Hours: Fri 3-5pm @TBD . Samir Khan . Teaching Assistant . Office Hours: Tue 1:15-3:15pm @TBD . Anav Sood . Teaching Assistant . Office Hours: Mon 5:30-7:45pm @TBD . ",
     "url": "http://localhost:4000/spring2022/#teaching-team",
     "relUrl": "/#teaching-team"
   },"22": {
     "doc": "Home",
     "title": "Course Logistics",
-    "content": "  . When: Class is Tuesdays and Thursdays 9:45-11:15am PST. Where: Class will be in person at NVDIA Auditorium. Links: . | Ed: This is the main way that you and the teaching team should communicate: we will post all important announcements here, and you should ask all course-related questions here. For personal matters that you don’t wish to put in a private Ed post, you can email the teaching staff at stats315b-spr2122-staff\\@lists.stanford.edu. | Canvas: The course Canvas page contains links and resources only accessible to students. | Gradescope: We use Gradescope for managing coursework (turning in, returning grades). Please use your @stanford.edu email address to sign up for a Gradescope account. | . Prerequisites: A well-prepared student will have knowledge of: . | Math: . | Linear algebra (matrix/vector operations, orthogonality, etc.) | Multivariate calculus (gradients, partial derivatives) | . | Probability: . | Random variables, expectations, Gaussian distribution, conditional and marginal distributions | . | Statistics / machine learning basics: . | Linear regression and classification and, ideally, overfitting and bias-variance tradeoff | Parameter estimation, including via maximum likelihood estimation | . | Programming proficiency in: . | Python (preferred for this course), or | R, Julia, etc. with an ability to (i) pivot to Python with starter code or (ii) code independently in selected language | . | . From experience, eager students with a strong quantitative background are able to catch up and fully participate. Course Grade: The course grade will be based on the following components. | 5 Homework Assignments (45%): HW0 (5%), HW1 - HW4 (40%) | Concept Quizzes (15%) | Final Project (40%): Project midway (10%), Project presentation (10%), Project report (20%) | . Textbooks: . | Probabilistic Machine Learning: An Introduction; Kevin Murphy | Probabilistic Machine Learning: Advanced Topics; Kevin Murphy | The Elements of Statistical Learning: Data Mining, Inference, and Prediction, 2nd Edition (12th printing); Trevor Hastie, Robert Tibshirani, Jerome Friedman | . Other references: . | A Course in Machine Learning; Hal Duame III | Pattern Recognition and Machine Learning; Chris Bishop | Machine Learning; Tom Mitchell | Information Theory, Inference, and Learning Algorithms; David MacKay | . ",
+    "content": "  . When: Class is Tuesdays and Thursdays 9:45-11:15am PST. Where: Class will be in person at NVDIA Auditorium. Links: . | Ed: This is the main way that you and the teaching team should communicate: we will post all important announcements here, and you should ask all course-related questions here. For personal matters that you don’t wish to put in a private Ed post, you can email the teaching staff at stats315b-spr2122-staff@lists.stanford.edu. | Canvas: The course Canvas page contains links and resources only accessible to students. | Gradescope: We use Gradescope for managing coursework (turning in, returning grades). Please use your @stanford.edu email address to sign up for a Gradescope account. | . Prerequisites: A well-prepared student will have knowledge of: . | Math: . | Linear algebra (matrix/vector operations, orthogonality, etc.) | Multivariate calculus (gradients, partial derivatives) | . | Probability: . | Random variables, expectations, Gaussian distribution, conditional and marginal distributions | . | Statistics / machine learning basics: . | Linear regression and classification and, ideally, overfitting and bias-variance tradeoff | Parameter estimation, including via maximum likelihood estimation | . | Programming proficiency in: . | Python (preferred for this course), or | R, Julia, etc. with an ability to (i) pivot to Python with starter code or (ii) code independently in selected language | . | . From experience, eager students with a strong quantitative background are able to catch up and fully participate. Course Grade: The course grade will be based on the following components. | 5 Homework Assignments (45%): HW0 (5%), HW1 - HW4 (40%) | Concept Quizzes (15%) | Final Project (40%): Project midway (10%), Project presentation (10%), Project report (20%) | . Textbooks: . | Probabilistic Machine Learning: An Introduction; Kevin Murphy | Probabilistic Machine Learning: Advanced Topics; Kevin Murphy | The Elements of Statistical Learning: Data Mining, Inference, and Prediction, 2nd Edition (12th printing); Trevor Hastie, Robert Tibshirani, Jerome Friedman | . Other references: . | A Course in Machine Learning; Hal Duame III | Pattern Recognition and Machine Learning; Chris Bishop | Machine Learning; Tom Mitchell | Information Theory, Inference, and Learning Algorithms; David MacKay | . ",
     "url": "http://localhost:4000/spring2022/#course-logistics",
     "relUrl": "/#course-logistics"
   },"23": {
@@ -175,7 +175,7 @@
   },"29": {
     "doc": "Policies",
     "title": "General course policies",
-    "content": ". | Gender expression/identity: This course affirms people of all gender expressions and gender identities. If you prefer to be called a different name than what is indicated on the class roster, please let me know. Feel free to correct me on your preferred gender pronoun. If you have any questions or concerns, please do not hesitate to contact me. | Code of conduct: You are expected to treat the instructional team and your fellow students with courtesy and respect. This class should be a harassment-free learning experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. Harassment of any form will not be tolerated. If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to one of the instructors. If you are not comfortable approaching the instructional team, you may also contact the Stanford Office of the Ombuds | Students with Documented Disabilities: If you have an OAE letter, please present it to stats315b-spr2122-staff\\@lists.stanford.edu at your earliest convenience, so we can ensure that the course materials and staff support comply with your needs. | Statement on Recordings: Video cameras located in the back of the room will capture the instructor presentations in this course. For your convenience, you can access these recordings by logging into the course Canvas site. These recordings might be reused in other Stanford courses, viewed by other Stanford students, faculty, or staff, or used for other education and research purposes. Note that while the cameras are positioned with the intention of recording only the instructor, occasionally a part of your image or voice might be incidentally captured. If you have questions, please contact a member of the teaching team. | . ",
+    "content": ". | Gender expression/identity: This course affirms people of all gender expressions and gender identities. If you prefer to be called a different name than what is indicated on the class roster, please let me know. Feel free to correct me on your preferred gender pronoun. If you have any questions or concerns, please do not hesitate to contact me. | Code of conduct: You are expected to treat the instructional team and your fellow students with courtesy and respect. This class should be a harassment-free learning experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. Harassment of any form will not be tolerated. If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to one of the instructors. If you are not comfortable approaching the instructional team, you may also contact the Stanford Office of the Ombuds | Students with Documented Disabilities: If you have an OAE letter, please present it to stats315b-spr2122-staff@lists.stanford.edu at your earliest convenience, so we can ensure that the course materials and staff support comply with your needs. | Statement on Recordings: Video cameras located in the back of the room will capture the instructor presentations in this course. For your convenience, you can access these recordings by logging into the course Canvas site. These recordings might be reused in other Stanford courses, viewed by other Stanford students, faculty, or staff, or used for other education and research purposes. Note that while the cameras are positioned with the intention of recording only the instructor, occasionally a part of your image or voice might be incidentally captured. If you have questions, please contact a member of the teaching team. | . ",
     "url": "http://localhost:4000/spring2022/policies/#general-course-policies",
     "relUrl": "/policies/#general-course-policies"
   },"30": {
@@ -281,21 +281,27 @@
     "url": "http://localhost:4000/spring2022/schedule/",
     "relUrl": "/schedule/"
   },"47": {
+    "doc": "Sections",
+    "title": "Sections",
+    "content": "There will be four additional sections held by TAs (Dates TBD). | Section 1: Probability Review + Python Basics . | Time: TBD | Zoom link: TBD | . | . ",
+    "url": "http://localhost:4000/spring2022/sections/",
+    "relUrl": "/sections/"
+  },"48": {
     "doc": "Staff",
     "title": "Staff",
     "content": "Staff information is stored in the _staffers directory and rendered according to the layout file, _layouts/staffer.html. ",
     "url": "http://localhost:4000/spring2022/staff/",
     "relUrl": "/staff/"
-  },"48": {
-    "doc": "Staff",
-    "title": "Instructors",
-    "content": "Emily Fox . Instructor . Office Hours: TBD . ",
-    "url": "http://localhost:4000/spring2022/staff/#instructors",
-    "relUrl": "/staff/#instructors"
   },"49": {
     "doc": "Staff",
+    "title": "Instructors",
+    "content": "Emily Fox . Instructor . Office Hours: Wed 1:30-2:30pm @TBD . ",
+    "url": "http://localhost:4000/spring2022/staff/#instructors",
+    "relUrl": "/staff/#instructors"
+  },"50": {
+    "doc": "Staff",
     "title": "Teaching Assistants",
-    "content": "Anav Sood . Teaching Assistant . Office Hours: TBD . Samir Khan . Teaching Assistant . Office Hours: TBD . Yujin Jeong . Teaching Assistant . Office Hours: TBD . Zijun Gao . Teaching Assistant . Office Hours: TBD . ",
+    "content": "Anav Sood . Teaching Assistant . Office Hours: Mon 5:30-7:45pm @TBD . Samir Khan . Teaching Assistant . Office Hours: Tue 1:15-3:15pm @TBD . Yujin Jeong . Teaching Assistant . Office Hours: Fri 3-5pm @TBD . Zijun Gao . Teaching Assistant . Office Hours: Mon 9:30-11:30am @TBD . ",
     "url": "http://localhost:4000/spring2022/staff/#teaching-assistants",
     "relUrl": "/staff/#teaching-assistants"
   }
