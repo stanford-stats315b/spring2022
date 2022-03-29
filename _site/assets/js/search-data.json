@@ -127,7 +127,7 @@
   },"21": {
     "doc": "Home",
     "title": "Teaching team",
-    "content": "Emily Fox . Instructor . Office Hours: Wed 1:30-2:30pm @TBD . Zijun Gao . Teaching Assistant . Office Hours: Mon 9:30-11:30am via Zoom (link posted on Canvas) . Yujin Jeong . Teaching Assistant . Office Hours: Fri 3-5pm via Zoom (link posted on Canvas) . Samir Khan . Teaching Assistant . Office Hours: Tue 1:15-3:15pm @TBD . Anav Sood . Teaching Assistant . Office Hours: Mon 5:30-7:45pm @TBD . ",
+    "content": "Emily Fox . Instructor . Office Hours: Wed 1:30-2:30pm via Zoom (link posted on Canvas) . Zijun Gao . Teaching Assistant . Office Hours: Mon 9:30-11:30am via Zoom (link posted on Canvas) . Yujin Jeong . Teaching Assistant . Office Hours: Fri 3-5pm via Zoom (link posted on Canvas) . Samir Khan . Teaching Assistant . Office Hours: Tue 2:30-4:30pm @TBD . Anav Sood . Teaching Assistant . Office Hours: Mon 5:30-7:45pm @TBD . ",
     "url": "http://localhost:4000/spring2022/#teaching-team",
     "relUrl": "/#teaching-team"
   },"22": {
@@ -295,13 +295,13 @@
   },"49": {
     "doc": "Staff",
     "title": "Instructors",
-    "content": "Emily Fox . Instructor . Office Hours: Wed 1:30-2:30pm @TBD . ",
+    "content": "Emily Fox . Instructor . Office Hours: Wed 1:30-2:30pm via Zoom (link posted on Canvas) . ",
     "url": "http://localhost:4000/spring2022/staff/#instructors",
     "relUrl": "/staff/#instructors"
   },"50": {
     "doc": "Staff",
     "title": "Teaching Assistants",
-    "content": "Anav Sood . Teaching Assistant . Office Hours: Mon 5:30-7:45pm @TBD . Samir Khan . Teaching Assistant . Office Hours: Tue 1:15-3:15pm @TBD . Yujin Jeong . Teaching Assistant . Office Hours: Fri 3-5pm via Zoom (link posted on Canvas) . Zijun Gao . Teaching Assistant . Office Hours: Mon 9:30-11:30am via Zoom (link posted on Canvas) . ",
+    "content": "Anav Sood . Teaching Assistant . Office Hours: Mon 5:30-7:45pm @TBD . Samir Khan . Teaching Assistant . Office Hours: Tue 2:30-4:30pm @TBD . Yujin Jeong . Teaching Assistant . Office Hours: Fri 3-5pm via Zoom (link posted on Canvas) . Zijun Gao . Teaching Assistant . Office Hours: Mon 9:30-11:30am via Zoom (link posted on Canvas) . ",
     "url": "http://localhost:4000/spring2022/staff/#teaching-assistants",
     "relUrl": "/staff/#teaching-assistants"
   }
