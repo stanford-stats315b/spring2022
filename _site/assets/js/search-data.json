@@ -79,13 +79,13 @@
   },"13": {
     "doc": "Calendar",
     "title": "Week 2, 3, 4 - Non-linear regression and classification",
-    "content": "Apr 5 Lecture 3 Decision trees I HW 0 due HW 1 out CQO: intro . | Decision trees | Reading: . | PML1 18.1 | (Optional) ESL 9.2.1-9.2.3 | . | . Apr 7 Lecture 4 Decision trees II   . | Decision trees, Boosting, Random forests, Adaboost | Reading: . | PML1 18.4-18.5 | (Optional) ESL 9.2.4, 10.1-10.10, 15.1-15.4, | (Optional) Explaining Adaboost | . | . Apr 12 Lecture 5 Decision trees III   CQ1: decision trees . | Gradient boosting, Precision and recall | Reading: . | PML1 5.1.4 | . | . Apr 14 Lecture 6 Deep learning I   . | Deep learning intro, single and multilayer networks | Reading: . | PML2 16.1-16.3 | . | . Apr 19 Lecture 7 Deep learning II HW 1 due HW 2 out . | Back propagation | Reading: . | PML2 16.4 | . | . Apr 21 Lecture 8 Deep learning III   . | Convnets, Transfer learning | Reading: . | see L6 reading | . | . ",
+    "content": "Apr 5 Lecture 3 Decision trees I HW 0 due HW 1 out CQO: intro . | Decision trees | Reading: . | PML1 18.1 | (Optional) ESL 9.2.1-9.2.3 | . | . Apr 7 Lecture 4 Decision trees II   . | Decision trees, Boosting, Adaboost | Reading: . | PML1 18.4-18.5 | (Optional) ESL 9.2.4, 10.1-10.10, 15.1-15.4, | (Optional) Explaining Adaboost | . | . Apr 12 Lecture 5 Decision trees III   CQ1: decision trees . | AdaBoost cont’d, gradient boosting | Reading: . | PML1 5.1.4 | . | . Apr 14 Lecture 6 Decision trees IV   . | Gradient boosting cont’d, random forests, missing data, precision and recall | Reading: . | PML1 5.1.4 | . | . Apr 19 Lecture 7 Deep learning I HW 1 due HW 2 out . | Deep learning intro, single and multilayer networks | Reading: . | PML2 16.1-16.3 | . | . Apr 21 Lecture 8 Deep learning II   . | Back propagation | Reading: . | PML2 16.4 | . | . Apr 26 Lecture 9 Deep learning III Project Proposal due CQ2: deep learning . | Convnets, Transfer learning | Reading: . | see L6 reading | . | . ",
     "url": "http://localhost:4000/spring2022/calendar/#week-2-3-4-non-linear-regression-and-classification",
     "relUrl": "/calendar/#week-2-3-4-non-linear-regression-and-classification"
   },"14": {
     "doc": "Calendar",
     "title": "Week 5, 6, 7, 8 - Unsupervised Learning",
-    "content": "Apr 26 Lecture 9 Clustering I Project Proposal due CQ2: deep learning . | Clustering and unsupervised learning, K-means clustering | Reading: . | PML1 21.1, 21.3 | (Optional) ESL 14.3.6 | . | . Apr 28 Lecture 10 Clustering II   . | Mixture of Gaussians, EM algorithm | Reading: . | PML1 21.4, PML2 29.2, PML1 8.7 | PML2 6.6.3-6.6.4 | . | . May 3 Lecture 11 Clustering III HW 2 due HW 3 out . | EM algorithm, Connection to K-means, Hierarchical clustering | Reading: . | ESL 14.3.7, 14.3.12 | PML1 21.2 | . | . May 5 Lecture 12 Dimensionality reduction   . | PCA | Reading: . | PML1 20.1 | (Optional) ESL 14.5.1 | . | . May 10 Lecture 13 Latent embeddings I   CQ3: clustering, EM, PCA . | Factor analysis, EM algorithm for Factor analysis | Reading: . | PML1 20.2 | PML2 29.3, 29.6 | (Optional) ESL 14.7.1-14.7.2 | . | . May 12 Lecture 14 Latent embeddings II Project Midway due . | Autoencoders, Variational autoencoders | Reading: . | PML1 20.3 | PML2 21.1-21.3, 22.1-22.2 | . | . May 17 Lecture 15 Matrix Factorization I HW 3 due HW 4 out . | Collaborative filtering via matrix factorization | Reading: . | PML1 22.1 | . | . May 19 Lecture 16 Matrix Factorization II   . | NMF, Probabilistic matrix factorization, Performance metrics, Graph NN | Reading: . | PML2 16.3.5, 29.5.1 | (Optional) ESL 14.6 | . | . ",
+    "content": "Apr 28 Lecture 10 Clustering I   . | Clustering and unsupervised learning, K-means clustering | Reading: . | PML1 21.1, 21.3 | (Optional) ESL 14.3.6 | . | . May 3 Lecture 11 Clustering II HW 2 due HW 3 out . | Mixture of Gaussians, EM algorithm | Reading: . | PML1 21.4, PML2 29.2, PML1 8.7 | PML2 6.6.3-6.6.4 | . | . May 5 Lecture 12 Clustering III   . | EM algorithm, Connection to K-means, Hierarchical clustering | Reading: . | ESL 14.3.7, 14.3.12 | PML1 21.2 | . | . May 10 Lecture 13 Latent embeddings I   CQ3: clustering, EM, PCA . | PCA, Factor analysis, EM algorithm for Factor analysis | Reading: . | PML1 20.1 20.2 | PML2 29.3, 29.6 | (Optional) ESL 14.5.1, 14.7.1-14.7.2 | . | . May 12 Lecture 14 Latent embeddings II Project Midway due . | Autoencoders, Variational autoencoders | Reading: . | PML1 20.3 | PML2 21.1-21.3, 22.1-22.2 | . | . May 17 Lecture 15 Matrix Factorization I HW 3 due HW 4 out . | Collaborative filtering via matrix factorization | Reading: . | PML1 22.1 | . | . May 19 Lecture 16 Matrix Factorization II   . | NMF, Probabilistic matrix factorization, Performance metrics, Graph NN | Reading: . | PML2 16.3.5, 29.5.1 | (Optional) ESL 14.6 | . | . ",
     "url": "http://localhost:4000/spring2022/calendar/#week-5-6-7-8-unsupervised-learning",
     "relUrl": "/calendar/#week-5-6-7-8-unsupervised-learning"
   },"15": {
@@ -127,7 +127,7 @@
   },"21": {
     "doc": "Home",
     "title": "Teaching team",
-    "content": "Emily Fox . Instructor . Office Hours: Wed 1:30-2:30pm via Zoom (link posted on Canvas) . Zijun Gao . Teaching Assistant . Office Hours: Mon 9:30-11:30am via Zoom (link posted on Canvas) . Yujin Jeong . Teaching Assistant . Office Hours: Fri 3-5pm via Zoom (link posted on Canvas) . Samir Khan . Teaching Assistant . Office Hours: Tue 2:30-4:30pm @TBD . Anav Sood . Teaching Assistant . Office Hours: Mon 5:30-7:45pm @TBD . ",
+    "content": "Emily Fox . Instructor . Office Hours: Wed 1:30-2:30pm via Zoom (link posted on Canvas) . Zijun Gao . Teaching Assistant . Office Hours: Mon 9:30-11:30am via Zoom (link posted on Canvas) . Yujin Jeong . Teaching Assistant . Office Hours: Fri 3-5pm via Zoom (link posted on Canvas) . Samir Khan . Teaching Assistant . Office Hours: Tue 2:30-4:30pm @ Econ 206 . Anav Sood . Teaching Assistant . Office Hours: Mon 5:30-7:30pm @ Hewlett 103 . ",
     "url": "http://localhost:4000/spring2022/#teaching-team",
     "relUrl": "/#teaching-team"
   },"22": {
@@ -283,7 +283,7 @@
   },"47": {
     "doc": "Sections",
     "title": "Sections",
-    "content": "There will be four additional sections held by TAs (Dates TBD). | Section 1: Probability Review + Python Basics . | Time: TBD | Zoom link: TBD | . | . ",
+    "content": "There will be four additional sections held by TAs. | Section 1: Probability Review + Python Basics . | Time: Apr 8 11 am - 12 pm | Zoom link posted on Canvas | . | . ",
     "url": "http://localhost:4000/spring2022/sections/",
     "relUrl": "/sections/"
   },"48": {
@@ -301,7 +301,7 @@
   },"50": {
     "doc": "Staff",
     "title": "Teaching Assistants",
-    "content": "Anav Sood . Teaching Assistant . Office Hours: Mon 5:30-7:45pm @TBD . Samir Khan . Teaching Assistant . Office Hours: Tue 2:30-4:30pm @TBD . Yujin Jeong . Teaching Assistant . Office Hours: Fri 3-5pm via Zoom (link posted on Canvas) . Zijun Gao . Teaching Assistant . Office Hours: Mon 9:30-11:30am via Zoom (link posted on Canvas) . ",
+    "content": "Anav Sood . Teaching Assistant . Office Hours: Mon 5:30-7:30pm @ Hewlett 103 . Samir Khan . Teaching Assistant . Office Hours: Tue 2:30-4:30pm @ Econ 206 . Yujin Jeong . Teaching Assistant . Office Hours: Fri 3-5pm via Zoom (link posted on Canvas) . Zijun Gao . Teaching Assistant . Office Hours: Mon 9:30-11:30am via Zoom (link posted on Canvas) . ",
     "url": "http://localhost:4000/spring2022/staff/#teaching-assistants",
     "relUrl": "/staff/#teaching-assistants"
   }

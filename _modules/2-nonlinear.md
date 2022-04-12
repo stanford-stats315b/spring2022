@@ -29,28 +29,28 @@ Apr 12
       1. **PML1** 5.1.4
 
 Apr 14
-: **Lecture 6**{: .label .label-purple } Deep learning I
+: **Lecture 6**{: .label .label-purple } Decision trees IV
   : &nbsp;
 : *  Gradient boosting cont’d, random forests, missing data, precision and recall
   * Reading:
       1. **PML1** 5.1.4
 
 Apr 19
-: **Lecture 7**{: .label .label-purple } Deep learning II
+: **Lecture 7**{: .label .label-purple } Deep learning I
   : **HW 1 due**{: .label .label-red }  **HW 2 out**{: .label .label-orange }
 : * Deep learning intro, single and multilayer networks
   * Reading: 
       1. **PML2** 16.1-16.3
 
 Apr 21
-: **Lecture 8**{: .label .label-purple } Deep learning III
+: **Lecture 8**{: .label .label-purple } Deep learning II
   : &nbsp;
 : * Back propagation
   * Reading:
       1. **PML2** 16.4
 
 Apr 26
-: **Lecture 9**{: .label .label-purple } Clustering I 
+: **Lecture 9**{: .label .label-purple } Deep learning III
   : **Project Proposal due**{: .label .label-red } 
 : **CQ2**{: .label .label-green }: deep learning
 : * Convnets, Transfer learning

@@ -3,7 +3,7 @@ title: Week 5, 6, 7, 8 - Unsupervised Learning
 ---
 
 Apr 28
-: **Lecture 10**{: .label .label-purple } Clustering II 
+: **Lecture 10**{: .label .label-purple } Clustering I
   : &nbsp;
 : * Clustering and unsupervised learning, K-means clustering
   * Reading:
@@ -11,7 +11,7 @@ Apr 28
       1. (Optional) **ESL** 14.3.6
 
 May 3
-: **Lecture 11**{: .label .label-purple } Clustering III
+: **Lecture 11**{: .label .label-purple } Clustering II
   : **HW 2 due**{: .label .label-red }  **HW 3 out**{: .label .label-orange }
 : * Mixture of Gaussians, EM algorithm
   * Reading: 
@@ -19,7 +19,7 @@ May 3
       1. **PML2** 6.6.3-6.6.4
 
 May 5
-: **Lecture 12**{: .label .label-purple } Dimensionality reduction
+: **Lecture 12**{: .label .label-purple } Clustering III
   : &nbsp;
 : * EM algorithm, Connection to K-means, Hierarchical clustering
   * Reading:
