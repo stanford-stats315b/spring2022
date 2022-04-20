@@ -75,13 +75,13 @@ From 2006-2009, Netflix sponsored a competition to improve its movie recommendat
    * **Background**: [netflixprize.com Wikipedia article](http://en.wikipedia.org/wiki/Netflix_Prize)
    * **Methods**: matrix factorization/SVD, collaborative filtering, clustering, side-information
 
-### fMRI Brain Imaging
+### Energy forecasting
 
-Brain scans were taken of a subject in the process of a word reading task. We want to be able to predict what word the participant is reading based off of the activation patterns in their brain. To do this, we have 218 semantic features for each word in our dictionary (where each feature is a rating from 1-5 answering a question such as "Is it an animal?"). Thus, we can use the fMRI image to predict the semantic features of the word, and then use our dictionary to find our best guess as to which word it is. In this way, we can predict words without ever having seen them in our training set.
-   * **Data**: [fmri.zip](http://www.cs.washington.edu/education/courses/cse599c1/13wi/datasets/fmri.zip) (See 3.3.3 of [this homework](http://www.cs.washington.edu/education/courses/cse599c1/13wi/homework/hw3/homework3.pdf) from last quarter's Big Data class for a description of the dataset)
-   * **Task**: Given an image and two candidate words, predict which of those words was being read by the subject.
-   * **Background**: [CMU Background](http://www.cs.cmu.edu/afs/cs/project/theo-73/www/science2008/data.html)
-   * **Methods**: LASSO, dimensionality reduction, stochastic coordinate descent
+This project is taken from a Kaggle contest run by the IEEE Power and Energy society. The goal is to predict the total energy load for a US utility across multiple zones, as well as the sum of the energy load across all these zones, based on temperature data.
+   * **Data**: [datasets](https://www.kaggle.com/competitions/global-energy-forecasting-competition-2012-load-forecasting/data)
+   * **Task**: Predict the hourly energy load across different zones of the US. (Note that the labels for the weeks meant to be predicted in the original contest are no longer available, so you should choose a random subset of other weeks to use as a test set.)
+   * **Background**: https://www.kaggle.com/competitions/global-energy-forecasting-competition-2012-load-forecasting/overview/description
+   * **Methods**: HMM, state space models, boosting (see https://robjhyndman.com/papers/kaggle-competition.pdf for another team's approach).
 
 ### Document Clustering
 
@@ -109,7 +109,7 @@ This task involves the famous disputed federalist papers. Some of the papers we 
 
 ### Job Salary Prediction
 
-This is another task taken from a Kaggle competition. Given an advertisement for a job opening, the goal is to predict the starting salary for the job being posted. Much of the data about the ads is unstructured text (like the ad content itself), but some structured data is given as well. A tree of the geographic relationships between the job locations is also provided. This task is similar to the running example in lecture of predicting starting salary, and has real-world usefulness to the company that posted the problem.
+This is another task taken from a Kaggle competition. Given an advertisement for a job opening, the goal is to predict the starting salary for the job being posted. Much of the data about the ads is unstructured text (like the ad content itself), but some structured data is given as well. A tree of the geographic relationships between the job locations is also provided. 
 * **Data**: [Kaggle Dataset](https://www.kaggle.com/c/job-salary-prediction/data)
 * **Task**: Predict a salary from a job posting
 * **Background**: [Kaggle Description](https://www.kaggle.com/c/job-salary-prediction)
