@@ -12,7 +12,7 @@ nav_order: 5
 
 ## Your Course Project 
 
-Your class project is an opportunity for you to explore an interesting machine learning problem in the context of a real-world data set. We are providing some seed project ideas below. You can pick one of these ideas, and explore the data and algorithms within and beyond what we suggest. You can also use your own data/ideas, but, in this case, you have to make sure you have the data available now and a nice roadmap, since a quarter is too short to explore a brand new concept.
+Your class project is an opportunity for you to explore an interesting machine learning problem in the context of a real-world data set. **We are providing some seed project ideas below.** You can pick one of these ideas, and explore the data and algorithms within and beyond what we suggest. **You can also use your own data/ideas**, but, in this case, you have to make sure you have the data available now and a nice roadmap, since a quarter is too short to explore a brand new concept.
 
 Projects can be done by you as an individual, or in teams of two students. You can discuss your ideas and approach with the instructors, but of course the final responsibility to define and execute an interesting piece of work is yours.
 
@@ -33,7 +33,7 @@ The Technical Depth and Scope are complementary criteria, e.g., if you develop a
 
 You must turn in a project proposal on **April 26th by 11:59pm via Gradescope**.
 
-Read the list of available data sets and potential project ideas below. If you prefer to use a different data set, we will consider your proposal, but you must have access to this data already, and present a clear proposal for what you would do with it.  
+**Read the list of available data sets and potential project ideas below.** If you prefer to use a different data set, we will consider your proposal, but you must have access to this data already, and present a clear proposal for what you would do with it.  
 
 **Project proposal format**: Proposals should be **one page maximum**. Include the following information:
 * Project title
@@ -65,7 +65,7 @@ Your write up should be **8 pages maximum** in [NeurIPS format](https://nips.cc/
  
 ## Project Ideas  
 
-The course staff has outlined several potential project ideas below. This should give you a sense of the datasets available and an appropriate scope for your project. You can either pick one of these or come up with something of your own to work on.
+The course staff has outlined several potential project ideas below. This should give you a sense of the datasets available and an appropriate scope for your project. **You can either pick one of these or come up with something of your own to work on**.
 
 ### Netflix Challenge
 
