@@ -122,3 +122,12 @@ The goal of this task is to learn how to recognize faces. We have a set of pictu
 * **Task**: Classify images of faces
 * **Background**: [.PGM format specification](http://netpbm.sourceforge.net/doc/pgm.html)
 * **Methods**: dimensionality reduction, PCA, SVM, neural networks
+
+### Human activity recognition
+
+Human activity recognition is the problem of classifying sequences of accelerometer data recorded by smart phones into known well-defined movements. It has numerous applications in healthcare as an assistive technology when ensemble with other technologies like IoT. The dataset is collected from 30 subjects, performing different activities with a smartphone to their waists. The data is recorded with the help of sensors (accelerometer and Gyroscope) in that smartphone. The goal is to classify sequences of sensor data into the human activities such as walking, walking upstairs, walking downstairs, sitting, standing and laying.
+
+* **Data**: [Human Activity Recognition Using Smartphones Data Set](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+* **Task**: Time series multi-class classification task
+* **Background**: [Related paper](https://www.ijrte.org/wp-content/uploads/papers/v8i1/A1385058119.pdf)
+* **Method**: decision trees, SVM, recurrent neural network with LSTM
