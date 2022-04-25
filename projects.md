@@ -70,7 +70,7 @@ The course staff has outlined several potential project ideas below. This should
 ### Netflix Challenge
 
 From 2006-2009, Netflix sponsored a competition to improve its movie recommendation system. Their system is based off of predicting what rating a user will give to a particular movie (using a 1-5 star system). In effect, what we have is a matrix where each row represents a user and each column represents a movie. Some elements are filled with past ratings, but most of them are unknown. Students can use matrix factorization or clustering methods to predict the missing values in this matrix.
-   * **Data**: [Ratings](http://www.cs.washington.edu/education/courses/cse599c1/13wi/datasets/netflix_mm.gz) (Lines are of the form "userid movieid rating")
+   * **Data**: [Ratings](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data)
    * **Task**: Predict users' ratings of movies they haven't seen.
    * **Background**: [netflixprize.com Wikipedia article](http://en.wikipedia.org/wiki/Netflix_Prize)
    * **Methods**: matrix factorization/SVD, collaborative filtering, clustering, side-information
