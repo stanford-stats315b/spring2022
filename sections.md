@@ -11,6 +11,7 @@ There will be four additional sections held by TAs.
     - Zoom link posted on Canvas
 
 - **Section 2: PyTorch Review**
-    - Time: Apr 26 5 pm - 6 pm
+    - Time: Apr 26 6 pm - 7 pm
     - Zoom link posted on Canvas
+    - [Colab Notebook](https://colab.research.google.com/drive/1M53jmfTNITVcHh_t02_cORtzk_-T6qrG#scrollTo=3J-Fp-cssWyn)
 
