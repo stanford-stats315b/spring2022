@@ -6,8 +6,8 @@ nav_order: 5
 
 ## Important Dates
 * Tues., Apr 26 at 11:59pm: Project Proposals 
-*  Thurs., May 12 at 11:59pm: Project Milestone 
-* Date/time/location TBD: Poster Session
+* Thurs., May 12 at 11:59pm: Project Milestone 
+* Thurs., June 2 from 9:45am - 12pm: Poster Session
 * Mon., June 6 at 11:59am (yes, am): Project Report
 
 ## Your Course Project 
