@@ -50,10 +50,10 @@ A project milestone should be submitted on **May 12th by 11:59pm via Gradescope*
  
 ## Poster Session  
 
-We will hold a poster session on **Date/Time/Location TBD**. Each team will be given a stand to present a poster summarizing the project motivation, methodology, and results. The poster session will give you a chance to show off the hard work you put into your project, and to learn about the projects of your peers. 
+We will hold a poster session on **Thursday June 2 from 9:45am - 12pm**. Each team will be given a stand to present a poster summarizing the project motivation, methodology, and results. The poster session will give you a chance to show off the hard work you put into your project, and to learn about the projects of your peers. 
 
 Here are some details on the poster format:
-- We will provide poster boards that are 32x40. 
+- We will provide poster boards that are 30x40. 
 - Suggested ways to make your poster:
     - Create a bunch of presentation slides (using powerpoint, beamer, etc), and print out each side on a piece of letter-sized paper. Then, put them all together on the provided poster board.
     - If you have access to a poster printer, you are welcome to create a single huge slide and print it out on a poster printer. However, you are not expected to have access to a poster printer, and you will not receive extra "presentation points" if you use this method.
